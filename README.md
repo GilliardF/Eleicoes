@@ -1,4 +1,4 @@
 # Projeto eleições
 Este é um repositório com o exemplo criado pelo Google Colaboratory.
 
-[.ipnyb](/.ipynb)
+[MASTERCLASS_ELEICOES.ipnyb](/MASTERCLASS_ELEICOES.ipynb)
